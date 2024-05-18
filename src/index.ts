@@ -220,4 +220,4 @@ export function buildHeaders(options?: TranslateOptions) {
 }
 
 export * from "./lang";
-export * as langs from "./langs";
+export * as langs from "./lib/langs";
